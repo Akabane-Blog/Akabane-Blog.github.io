@@ -1,1 +1,0 @@
-# Akabane's Static CDN
