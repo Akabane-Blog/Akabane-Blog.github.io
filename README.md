@@ -1,1 +1,2 @@
-# Akabane-Blog.github.io
+# Akabane's Static CDN
+### 请勿引用
